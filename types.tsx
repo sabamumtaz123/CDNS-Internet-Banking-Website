@@ -1,0 +1,23 @@
+export interface Account {
+    companyName:any;
+    companyID:any;
+    id: string;
+    imd:string;
+    name: string;
+    value: string;
+    accountTitle: string;
+    branch_code: string;
+    benefAccount: string;
+    product: string;
+    iban: string;
+    action: any;
+    benefAlias: string;
+    benefBranchCode: string;
+    benefEmail: string;
+    benefID: string;
+    benefIban: string;
+    benefMobile: string;
+    benefProductCode: string;
+    benefTitle: string;
+    benefType: string;
+};
